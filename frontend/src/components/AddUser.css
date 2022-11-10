@@ -1,0 +1,49 @@
+.Add-user {
+    
+    padding:  50px;
+    background-color: #b3bfd9;
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    
+
+}
+
+.header {
+
+    width: 900px;
+    margin: 0 auto;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+
+}
+
+  .label {
+    font-weight: bold; 
+
+
+  }
+
+  .field {
+    padding: 10px;;
+  }
+
+
+  .button1 {
+background-color: rgb(50, 205, 91);
+border-radius:  3px;
+padding: 8px;
+font-weight: bold; 
+border-style: none;
+
+  }
+
+  .table-style {
+  margin-top: 40px;
+  width: 900px;
+  height: 100%;
+  }
+
